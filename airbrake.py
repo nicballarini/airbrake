@@ -3,7 +3,7 @@ from datetime import datetime, timezone, timedelta
 
 import requests
 
-API_key = "f286b66e96a9c25798f3773500d98aa6865111ce"
+API_key = ""
 
 PROJECTS = {
     "API": "247492",
